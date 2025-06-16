@@ -1,6 +1,6 @@
 package org.SDETUpskilling;
 
-public class FinalKeyword {
+public class TernaryOperator {
 
     public static void main(String[] args) {
 
