@@ -20,5 +20,16 @@ public class TernaryOperator {
         // Print the final XPath (In real Selenium, you'd pass this to driver.findElement)
         System.out.println("\nGenerated XPath: " + dynamicXPath);
 
+
+//        String s1 = "Get started";
+//        String s2 = "you are in.. start exploring";
+//        boolean check = false;
+//
+//        if(check==true){
+//            System.out.println(String.format("//div[text()='%s']",s1));
+//        }else{
+//            System.out.println(String.format("//div[text()='%s']",s2));
+//        }
+
     }
 }
